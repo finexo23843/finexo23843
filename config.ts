@@ -13,7 +13,7 @@ export const config = createConfig({
     safe(),
   ],
   transports: {
-    [mainnet.id]: http(),
-    [base.id]: http(),
+    [mainnet.id]: https://eth-mainnet.g.alchemy.com/v2/R5PWuPGjkkf5iVhcgGUVP(),
+    [base.id]: https://eth-mainnet.g.alchemy.com/v2/R5PWuPGjkkf5iVhcgGUVP(),
   },
 })
