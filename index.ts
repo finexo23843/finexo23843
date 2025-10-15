@@ -6,7 +6,7 @@ function App() {
 
 function App() {
   const result = Finexo({
-    address: '0xd2135CfB216b74109775236E36d4b433F1DF507B',
+    address: '0x8bcfc12c7D9007dda05770170bd247974Ce63ed7,
   })
 }',
 import { getBalance } from '@wagmi/core'
